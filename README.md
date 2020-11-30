@@ -1,4 +1,4 @@
-# azure_terraform
+# azure_terraform_storage_account
 
 ### Commands:
 
